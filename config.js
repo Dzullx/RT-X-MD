@@ -20,7 +20,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Wm untuk stiker
-global.packname = 'ePro Rtxzy'
+global.packname = 'Triotz'
 global.author = '© Triotz'
 
 global.multiplier = 70 // Semakin Tinggi levelmu semakin naik
